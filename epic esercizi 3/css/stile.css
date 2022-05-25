@@ -1,0 +1,225 @@
+/* IMPOSTAZIONI GENERALI */
+h1, h2 {font-family: 'Raleway', sans-serif;
+        font-size: 30px ;
+        font-weight: bold;
+}
+
+/* HEADER */
+header h1 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px ;
+    padding: 30px;
+    line-height: 1.5;
+}
+
+header h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 20px;
+    
+}
+
+#header {background-color: #00A0C6;
+    border-bottom: 5px solid #027794;
+    padding: 0;
+}
+
+#mid {
+    background-color: white;
+    color: #00A0C6;
+    
+}
+
+
+/* MAIN */
+
+main h2 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #027794;
+    margin: 1em;
+}
+
+main p {
+    margin-bottom: 20px;
+}
+
+main a {
+    color: #027794;
+    font-size: 20px;
+}
+
+main a:visited {
+    color: red;
+}
+
+main b {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+main strong {
+    color: #00A0C6;
+}
+
+
+main mark {
+    background-color: #027794;
+    color: white;
+}
+
+
+
+
+
+/* ELEMENTI NEL MAIN */
+
+hr {
+    border-style: dashed;
+}
+
+
+
+main figure img {
+    border: 1px solid rgb(219, 218, 218) ;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+}
+
+main figure figcaption {
+    text-align: center;
+}
+
+main address {
+    margin: 20px 0px 20px 0px;
+}
+
+address {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+address img {
+    
+    padding-left: 20px;
+}
+
+#desc{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 20px;
+    font-weight: bold;
+}
+
+#cit {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+blockquote p {
+    background-color: rgb(219, 218, 218);
+    border-radius: 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 30px 10px 30px 10px;
+}
+
+#presentazione { 
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 10px 30px;
+
+}
+
+#formazione { 
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        padding: 10px 30px;
+    
+}
+
+#competenze {
+    
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        padding: 10px 30px;
+    
+    }
+div ul li {
+    line-height: 1.5;
+    padding-left: 30px;
+}    
+
+div dl dd {
+    line-height: 1.5;
+    padding-left: 30px;
+}
+
+div dl dt {
+    line-height: 1.5;
+}
+
+div h3 {
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+div p {
+    line-height: 1.5;
+}
+    
+ 
+
+
+
+/* FOOTER */
+
+
+footer {
+     background-color: #353535 ;
+     text-align: center;
+     border-top: 20px;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     line-height: 1.5;
+     padding: 10px;
+}
+
+
+footer p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer kbd {
+    color: yellow;
+}
+
+
+footer p small {
+    color: #a0a0a0;
+
+}
+
+footer a {
+    color: rgb(199, 69, 69);
+}
